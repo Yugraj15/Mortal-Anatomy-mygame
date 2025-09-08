@@ -1,0 +1,15 @@
+# Godot-specific files to ignore
+.godot/
+.import/
+export_presets.cfg
+
+# Common system files
+.DS_Store
+Thumbs.db
+
+# Exported game builds
+*.exe
+*.zip
+*.pck
+*.pck.zip
+*.pck.js
