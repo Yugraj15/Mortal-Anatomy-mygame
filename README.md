@@ -14,13 +14,10 @@ Human Anatomy Simulator
 An interactive and educational game for exploring the human body.This project is a Godot-based simulation designed to help users learn about human anatomy through interactive 3D models and integrated educational content.
 
 Download & Play
-The game file is available for download on itch.io.
-Click here to go to the itch.io page and download the game
+The game file is available for download on itch.io.Click here to go to the itch.io page and download the game. Link- https://yugraj15.itch.io/mortal-anatomy
 
 How to Play
-Download the game file from the itch.io page.
-Extract the downloaded ZIP file.
-Run the executable file inside the extracted folder to start the game.
+Download the game file from the itch.io page. Extract the downloaded ZIP file. Run the executable file inside the extracted folder to start the game.
 
 Features
 3D Models: Explore the human body with interactive, labeled 3D models.
